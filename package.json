@@ -1,0 +1,8 @@
+{
+  "name": "USDT",
+  "version": "1.0.0",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.13",
+    "dotenv": "^16.3.1"
+  }
+}
